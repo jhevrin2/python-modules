@@ -13,7 +13,10 @@ This project is used as a practice repository for using Python modules.
 2. I cloned down the repository into my projects folder locally: ```git clone <repository ssh url>```
 3. I followed a template similar to [CookieCutter](https://drivendata.github.io/cookiecutter-data-science/)
 to build the different folders.
-4. I commit frequently and push as needed:
+4. While developing, I use notebooks in the "notebooks" directory for scratch and building out the code.
+   After something is usable, I'll turn around and create a python module in the "project" directory
+   that I can then import in.
+5. While I'm working, I commit frequently and push as needed:
     ```bash
     git status
     git add <file/directory name>
