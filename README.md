@@ -1,2 +1,3 @@
-# python-modules
-Practice repository for using Python modules
+# Python Modules
+
+This project is used as a practice repository for using Python modules.
